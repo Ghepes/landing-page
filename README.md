@@ -1,4 +1,5 @@
 # Astro Landing Page
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9fbf7009-04af-4830-afaf-cef76dccbf6f/deploy-status)](https://app.netlify.com/sites/wromo/deploys)
 
 An Astro + Tailwind CSS starter kit for landing pages.
 
